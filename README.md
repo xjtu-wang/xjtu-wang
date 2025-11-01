@@ -19,19 +19,19 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia" />
+        <img src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia&hide_border=true" />
       </a>
     </td>
     <td rowspan="2">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=donut-vertical&theme=algolia" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=donut-vertical&theme=algolia&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia" />
+         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia&hide_border=true" />
       </a>
     </td>
   </tr>
