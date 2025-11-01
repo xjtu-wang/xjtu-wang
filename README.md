@@ -15,26 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table align="center" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia&hide_border=true" />
-      </a>
-    </td>
-    <td rowspan="2">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&theme=algolia&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia&hide_border=true&border_radius=0"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&theme=algolia&hide_border=true&border_radius=0"/></a><br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia&hide_border=true&border_radius=0"/></a>
+</p>
+
 
 
