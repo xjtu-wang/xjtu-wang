@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia&hide_border=true&layout=compact" />
-  </a>
-</p>
+<div align="center" style="display:flex; flex-direction:column; align-items:center; gap:0;">
+  <div style="display:flex; gap:0;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="margin:0; padding:0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia&hide_border=true" style="display:block; height:200px; margin:0;" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="margin:0; padding:0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=compact&theme=algolia&hide_border=true&langs_count=8" style="display:block; height:200px; margin:0;" />
+    </a>
+  </div>
+  <div style="margin:0; margin-top:-4px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="margin:0; padding:0;">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia&hide_border=true&layout=compact" style="display:block; margin:0;" />
+    </a>
+  </div>
+</div>
 
