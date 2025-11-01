@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     </td>
     <td rowspan="2">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=donut-vertical&theme=algolia" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&theme=algolia" />
       </a>
     </td>
   </tr>
