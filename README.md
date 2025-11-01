@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
