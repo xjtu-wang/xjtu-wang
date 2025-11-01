@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia&hide_border=true" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=compact&theme=algolia&hide_border=true" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia&hide_border=true&layout=compact" />
   </a>
 </p>
 
