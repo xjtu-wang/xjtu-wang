@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
+
 <div align="center" style="display:flex; flex-direction:column; align-items:center; gap:0;">
   <div style="display:flex; gap:0;">
     <a href="https://github.com/anuraghazra/github-readme-stats" style="margin:0; padding:0;">
