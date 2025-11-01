@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+// ...existing code...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=donut-vertical&theme=algolia" /></a>
+<!--START_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
