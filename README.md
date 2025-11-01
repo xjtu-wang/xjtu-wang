@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
