@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td style="padding: 0; border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia" />
+        <img src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&show_icons=true&theme=algolia" style="display: block;" />
       </a>
     </td>
-    <td rowspan="2">
+    <td rowspan="2" style="padding: 0; border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=donut-vertical&theme=algolia" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&layout=donut-vertical&theme=algolia" style="display: block;" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="padding: 0; border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia" />
+         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&theme=algolia" style="display: block;" />
       </a>
     </td>
   </tr>
