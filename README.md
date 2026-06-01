@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="33.3%" src="https://github-readme-stats.vercel.app/api?username=xjtu-wang&&theme=transparent&show_icons=true&hide_border=true&border_radius=0" alt="GitHub Stats"/></a><!--
-  --><a href="https://github.com/anuraghazra/github-readme-stats"><img width="33.3%" src="https://github-readme-stats.vercel.app/api/wakatime?username=xjtuwang&&theme=transparent&hide_border=true&border_radius=0" alt="WakaTime Stats"/></a><!--
-  --><a href="https://github.com/anuraghazra/github-readme-stats"><img width="33.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-wang&&theme=transparent&layout=compact&langs_count=6&hide_border=true&border_radius=0" alt="Top Languages"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="33.3%" src="./profile/stats.svg" alt="GitHub Stats"/></a><!--
+  --><a href="https://github.com/anuraghazra/github-readme-stats"><img width="33.3%" src="./profile/wakatime.svg" alt="WakaTime Stats"/></a><!--
+  --><a href="https://github.com/anuraghazra/github-readme-stats"><img width="33.3%" src="./profile/top-langs.svg" alt="Top Languages"/></a>
 </p>
 
 
